@@ -1,0 +1,1 @@
+export const baseUrl = 'https://webaccounting.herokuapp.com/account'
